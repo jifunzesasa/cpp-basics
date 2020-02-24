@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 
-// a very simple class
 class Class1 {
 	int i;
 public:
